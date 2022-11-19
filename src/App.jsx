@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, Accordion} from "./components";
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, Accordion, Data} from "./components";
 // import {Accordion} from './components'
 
 const App = () => (
@@ -22,6 +22,7 @@ const App = () => (
         <Billing />
         <CardDeal />
         <Business />
+        <Data/>
         
         {/* <Testimonials />
         <Clients /> */}

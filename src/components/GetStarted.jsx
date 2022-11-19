@@ -8,7 +8,9 @@ const GetStarted = () => (
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
           <span className="text-gradient">Get</span>
         </p>
+        <a href="https://upgrade.chat/cluBillionaire786" target="_blank" rel="noreferrer">
         <img src={arrowUp} alt="arrow-up" className="w-[23px] h-[23px] object-contain" />
+        </a>
       </div>
       
       <p className="font-poppins font-medium text-[18px] leading-[23.4px]">

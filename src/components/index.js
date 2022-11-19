@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import Accordion from "./Accordion";
+import Data from "./Data";
 
 
 
@@ -25,4 +26,5 @@ export {
   Testimonials,
   Hero,
   Accordion,
+  Data,
 };
