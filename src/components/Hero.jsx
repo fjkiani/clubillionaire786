@@ -1,5 +1,5 @@
 import styles from "../style";
-import { discount, robot, logo } from "../assets";
+import { discount, robot, profit2 } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
@@ -9,15 +9,15 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">The only discord you need</span> for insights into NYSE {" "}
+            <span className="text-white">100% of your membership fees</span> donated directly to charity {" "}
             {/* <span className="text-white">1 Month</span> Account */}
           </p>
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            Automated Signals  <br className="sm:block hidden" />{" "}
-            <span className="text-gradient">Empowering</span>{" "}
+            Empowering Investors <br className="sm:block hidden" />{" "}
+            <span className="text-gradient"> Sadaqah</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
@@ -25,15 +25,15 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-        Retail Investors
+        Fortune
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        A discord channel that has  everything you’ll ever need for trading options and stocks succesfully
+        Implement AI, Data Analytics and human knowledge to become a profitable trader
         </p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={logo} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+        <img src={profit2} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />

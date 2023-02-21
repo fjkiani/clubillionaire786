@@ -5,6 +5,8 @@ import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.png";
+import profit from "./profit.png";
+import profit2 from "./profit2.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -33,6 +35,8 @@ export {
   coinbase,
   dropbox,
   logo,
+  profit,
+  profit2,
   quotes,
   robot,
   send,
