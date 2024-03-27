@@ -15,13 +15,13 @@ const questions = [
       id: 3,
       title: 'I am new to trading, do I just follow what the bot says?',
       info:
-        'We highly advise all members to use the bots in conjunction to technical analysis, understanding catlysts, market sentiment and utilizing the chat for questions',
+        'The bots are only meant to be utilized as an education tool. If you are new, understanding the risk involved with trading is a good place to start. We have built comprehensive educational material in our discord that serves to educate members on how to navigate the stock market without utilizing any capital',
     },
     {
       id: 4,
       title: 'I have X amount of dollars to invest but I am new to trading, is this a good place to start?',
       info:
-        'If you have never traded before (particularly options), we strongly advise you to begin by trading "paper-money". This will prevent any loses while the resources in the channel helps you understand the fundamentals',
+        'A good place would be to understand the risks involved with trading and the volitility of the market before making any steps further. If you have never traded before (particularly options), we strongly advise you to begin by trading "paper-money". We have built a resources on how you can learn how to trade utilizing a stimulator that seeks to help traders learn and develop confidence without risking any capital',
     },
     {
       id: 5,
@@ -35,12 +35,7 @@ const questions = [
       info:
         'All sales are final upon processing and are non-refundable once processed. Cancellation of a subscription must be made in advance of the billing date',
     },
-    {
-      id: 7,
-      title: 'How many signals does your channel suggest members to take daily?',
-      info:
-        'While over 20 signals are sent daily, our philosphy is to take only 5 weekly',
-    },
+
 
   ];
   export default questions;

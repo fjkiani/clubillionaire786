@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Signals per day",
-    value: "3+",
+    title: "Members",
+    value: "100+",
   },
   {
     id: "stats-2",
-    title: "Accuracy",
-    value: "80%+",
+    title: "Community Driven",
+    value: "100%",
   },
   {
     id: "stats-3",
-    title: "Consistency",
-    value: "100%+",
+    title: "Data Driven",
+    value: "100%",
   },
 ];
 
