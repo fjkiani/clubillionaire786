@@ -42,7 +42,7 @@ const Footer = () => (
 1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
       <br/>
-        © {new Date().getFullYear()} Built by JOY. 
+        © {new Date().getFullYear()} Built by Jedi Labs. 
         <br />
       </p>
 
